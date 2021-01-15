@@ -1,0 +1,13 @@
+body{
+    background-color: cyan;
+}
+img{
+    margin-left: 10px;
+}
+button{
+    background-color: green;
+    width: 30%;
+    height: 60px;
+    color: white;
+    font-size: 25px;
+}

@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    margin: 5px;
+}
+h1{
+    text-align: center;
+    color: red;
+    font-family: fantasy;
+}
+a{
+    text-align: left;
+    font-size: 30px;
+    color: green;
+}
+h3{
+    color: white;
+    text-shadow: 1px solid red;
+}
+p{
+    color: white;
+}
+button{
+    background-color: green;
+    width: 30%;
+    height: 60px;
+    color: white;
+    font-size: 25px;
+}
